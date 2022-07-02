@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning React Native<br><br>👨‍💻 All of my projects are available at  https://github.com/CodeRitik189<br><br>📫 How to reach me ritiktripathi189@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/13-7P6uRuS1RLd3XYDKziN2RbybEiWZnC/view?usp=sharing<br><br>⚡ Fun fact I think I am a Good Developer But I am Not :(
+<br>🌱 I’m currently learning React Native<br><br>👨‍💻 All of my projects are available at  https://github.com/CodeRitik189<br><br>📫 How to reach me ritiktripathi189@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/13-7P6uRuS1RLd3XYDKziN2RbybEiWZnC/view?usp=sharing<br><br>
 
 
 ## 🌐 Socials:
